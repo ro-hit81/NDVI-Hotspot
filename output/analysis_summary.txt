@@ -1,0 +1,1 @@
+SIMPLE NDVI ANALYSIS SUMMARY\n========================================\n\nStudy Period: 2023-04-01 to 2023-09-13\nSpatial Extent: 50 x 50 pixels\nTemporal Resolution: 12 time steps\nMean NDVI: 0.125\nNDVI Range: -0.269 to 0.821\n\nHotspot Analysis:\n  Hot spots: 273 pixels (10.9%)\n  Cold spots: 26 pixels (1.0%)\n  Not significant: 2201 pixels\n
